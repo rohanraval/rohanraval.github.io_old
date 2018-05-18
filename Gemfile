@@ -19,6 +19,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 3.5"
 gem "minimal-mistakes-jekyll"
+gem "jekyll-remote-theme"
 
 # If you have any plugins, put them here!
 # group :jekyll_plugins do
