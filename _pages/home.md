@@ -4,17 +4,15 @@ permalink: "/"
 title:  "Hi, I'm Rohan."
 ---
 
-<style> .page__content p {font-size: 0.8em;}</style>
+I'm studying CS && Physics at the University of Virginia. This spring, I'm developing and teaching a new intro course on robotics, listed as [CS 1501] at UVa. After college, I'll be working on autonomous vehicles as a software engineer @[UberATG][uber].
 
-I'm really passionate about robotics and autonomous vehicles.
+I'm super interested in autonomous robotics -- currently I'm trying to learn more about motion control for unmanned aerial vehicles. My other interests include growth engineering and machine learning. I also like to read.
 
-Currently, I'm studying CS && Physics at the University of Virginia. I'm also interning as a software engineer at Uber Advanced Technologies Group to help develop HD Maps for our fleet of self-driving cars.
- 
-In addition to self driving cars, I'm very interested in machine learning, growth engineering, and brand creation. In my free time, I enjoy [reading][reading] and [painting][painting].
+Check out my [blog][blog] or my [portfolio][github]. Feel free to shoot me an [email][email] if you want to chat!
 
-While you're here, make sure you check out my [blog][blog]! Also feel free to look over my [resume][resume], or reach out to me via Email or Twitter. Happy to connect!
-
-[reading]: /books/
-[painting]: /paintings/
-[resume]: /resume/
+[CS 1501]: https://rohanraval.com/cs1501
+[uber]: https://www.uber.com/info/atg/
+[read]: /readinglist/
 [blog]: https://medium.com/rohanraval
+[github]: https://github.com/rohanraval
+[email]: mailto:rohanraval@virginia.edu
